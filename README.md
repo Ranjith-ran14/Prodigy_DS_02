@@ -1,5 +1,5 @@
 # Prodigy_DS_02
-![Task 2](task2.PNG)
+![Task 2](task2_question.PNG.png)
 In this task, I performed data cleaning and exploratory data analysis (EDA) on the Titanic Dataset from Kaggle.
 
 🔍 Explored relationships between variables 📊 Identified patterns and insights in survival rates 🛠️ Applied skills in Python, Pandas, Matplotlib & Seaborn
