@@ -13,4 +13,4 @@ This dataset is from https://github.com/Ranjith-ran14/Prodigy_DS_02/blob/main/te
 1.Data cleaning 2.Exploring Relationships betweeen variables 3.Identify trends between variables
 ## Contact
 For enquiries or feedback, please contact:
-Ranjith C(via Linkedin), ranjith.chitrambalam@gmail.com(via gmail)
+Ranjith C(via LinkedIn), ranjith.chitrambalam@gmail.com(via gmail)
